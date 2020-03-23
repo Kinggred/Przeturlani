@@ -6,7 +6,7 @@
     </update>
   </info>
   <files>
-    <file name="source.xml" url="http://hosting.com/files/source.xml" />
+    <file name="KacperM.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/KacperM.xml" />
     <file name="items.xml" url="http://hosting.com/files/items.xml" />
   </files>
 </index>
