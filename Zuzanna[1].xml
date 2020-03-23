@@ -5,7 +5,7 @@
     <description>
             <p class="indent"><strong>Wiek<em></em></strong> Nie mam pomysłu, załóżmy, że kobietom czasu nie liczymy</p>
 			<p class="indent"><strong><em>Ułożenie</em></strong> Tak</p>
-			<p class="indent"><strong><em>Human</em></strong> Lingwistką się jest, a nie bywa.</p>
+			<p class="indent"><strong><em>Human</em></strong> Humanistką się jest, a nie bywa.</p>
             <p class="indent"><strong><em>Maska</em></strong> Wieloletnie popierdzielanie wraz z innymi harcerzami sprawiło, że jesteś wilkiem w owczej skórze. Gdy tylko zostaną Ci zdjęte okulary, zmieniasz się w prawdziwą bestię. Bez nich twój modyfikator do charyzmy wynosi -4 natomiast do siły +4.</p>
             <p class="indent"><strong><em>Szyszkojad</em></strong> Jesteś w stanie znaleść pożywienie w każdym miejscu</p>
 			<p class="indent"><strong><em>Sen</em></strong> Twój krótki odpoczynek jest naprawdę krótki, łącząc to ze zdolnością zaśnięcia wszędzie, jesteś w stanie usiąść pod ścianą na 5 minut by czuć się zregerenowana.</p>
@@ -28,10 +28,10 @@
 
     <element name="Human" type="Racial Trait" source="Maks" id="ID_RACIAL_TRAIT_HUMANA">
     <description>
-      <p>Lingwistką się jest, a nie bywa.</p>
+      <p>Humanistką się jest, a nie bywa.</p>
     </description>
 	<sheet display="true">
-		<description>Lingwistką się jest, a nie bywa.</description>
+		<description>Humanistką się jest, a nie bywa.</description>
 	</sheet>
     </element>
 
