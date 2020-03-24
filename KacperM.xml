@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-
+  <info>
+   <name>KacperM</name>
+   <update version="1.0">
+     <file name="przeturlani.index" url="https://github.com/Kinggred/Przeturlani/blob/master/przeturlani.index" />
+   </update>
+  </info>
   <element name="Kacper" type="Race" source="Maks" id="ID_MAKS_MAKS_RACE_KACPERMACH">
     <supports>Kacper</supports>
     <description>
