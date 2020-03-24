@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+	  <info>
+   <name>Kaja</name>
+   <update version="1.0">
+     <file name="przeturlani.index" url="https://github.com/Kinggred/Przeturlani/blob/master/przeturlani.index" />
+   </update>
+  </info>
   <element name="Kaja" type="Race" source="Maks" id="ID_MAKS_MAKS_RACE_KAJA">
     <supports>Kaja</supports>
     <description>
