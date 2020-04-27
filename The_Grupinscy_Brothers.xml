@@ -3,7 +3,7 @@
   <info>
    <name>The_Grupinscy_Brothers</name>
    <update version="1.0">
-     <file name="przeturlani.index" url="https://github.com/Kinggred/Przeturlani/blob/master/przeturlani.index" />
+     <file name="przeturlani.index" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/przeturlani.index" />
    </update>
   </info>
   <element name="The_Grupinscy_Brothers" type="Race" source="Maks" id="ID_MAKS_MAKS_RACE_THE_GRUPINSCY_BROTHERS">
