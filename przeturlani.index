@@ -6,10 +6,10 @@
     </update>
   </info>
   <files>
-    <file name="KacperM.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/KacperM.xml" />
-    <file name="Kaja.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/Kaja.xml" />
-    <file name="The_Grupinscy_Brothers.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/The_Grupinscy_Brothers.xml" />
-    <file name="Wiktor.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/Wiktor.xml" />
-    <file name="Zuzanna1.xml" url="https://github.com/Kinggred/Przeturlani/blob/master/Zuzanna1.xml" />
+    <file name="KacperM.xml" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/KacperM.xml" />
+    <file name="Kaja.xml" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/Kaja.xml" />
+    <file name="The_Grupinscy_Brothers.xml" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/The_Grupinscy_Brothers.xml" />
+    <file name="Wiktor.xml" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/Wiktor.xml" />
+    <file name="Zuzanna1.xml" url="https://raw.githubusercontent.com/Kinggred/Przeturlani/master/Zuzanna1.xml" />
   </files>
 </index>
